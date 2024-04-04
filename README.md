@@ -5,6 +5,8 @@ This repository documents the APIs related to the MUSAP project. MUSAP consists 
 1. MUSAP API (native iOS/Android)
 2. MUSAP Link API (REST/JSON API)
 3. MUSAP Coupling API (JSON API)
+   
+![MUSAP APIs](docs/MUSAP_APIs_and_Libraries.png)
 
 Additionally, the MUSAP Specification can be found [here](https://github.com/methics/musap-api/blob/main/docs/MUSAP_Specification.pdf), and KeyURI specification [here](https://github.com/methics/musap-api/blob/main/docs/KeyURI_Specification.pdf).
 
