@@ -10,6 +10,9 @@ This repository documents the APIs related to the MUSAP project. MUSAP consists 
 
 Additionally, the MUSAP Specification can be found [here](https://github.com/methics/musap-api/blob/main/docs/MUSAP_Specification.pdf), and KeyURI specification [here](https://github.com/methics/musap-api/blob/main/docs/KeyURI_Specification.pdf).
 
+Overall MUSAP Architecture is: 
+![MUSAP project architecture alt="MUSAP architecture" width="30" height="30](Complete_MUSAP_Architecture_D4.png)
+
 ## MUSAP API
 
 The MUSAP API is described in detail in Chapter 11 of the [MUSAP Specification](https://github.com/methics/musap-api/blob/main/docs/MUSAP_Specification.pdf).
@@ -49,3 +52,8 @@ It includes the following end-points:
 4. updatedata
 5. linkaccount
 6. externalsignature
+
+For all users MUSAP provides at least two keystores to be interfaced with end-user-add:
+![MUSAP keystores alt="MUSAP" ](Complete_MUSAP_avaliable_setup_with_2_keystores.png)
+
+
